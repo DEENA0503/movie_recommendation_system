@@ -47,6 +47,8 @@ The system recommends the top 5 movies that are most similar to the selected one
 
 ## Application
 The app was built using Streamlit. Users can select a movie, and the app will recommend 5 similar movies.
+![image](https://github.com/user-attachments/assets/34d1bf53-2d0a-407e-a1e7-0cbe757042b0)
+
 
 ### App Code (app.py)
 The `app.py` script loads two pickle files:
